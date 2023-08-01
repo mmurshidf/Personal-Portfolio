@@ -189,6 +189,7 @@ nav ul li a:hover{
 }
 .proj{
     display: inline-flex;
+    max-width: 100%;
 }
 .work-text a:hover{
     border-color: #ff004f;
@@ -205,6 +206,8 @@ nav ul li a:hover{
 }
 .Web{
     margin-bottom: 10%;
+    width: 100%;
+    height: auto;
 }
 #contact{
     margin-bottom: 30px;
